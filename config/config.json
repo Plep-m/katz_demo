@@ -1,0 +1,12 @@
+{
+    "server": {
+        "port": 8080,
+        "route_directory": "./routes",
+        "routes_sources": "../routes",
+        "log_level": "debug"
+    },
+    "routes": {
+        "max_routes": 100,
+        "hot_reload": true
+    }
+}
